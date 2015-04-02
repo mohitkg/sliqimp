@@ -1,0 +1,1 @@
+Implementation of the SLIQ datamining algorithm
